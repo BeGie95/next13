@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+.gitconfig
 # next.js
 /.next/
 /out/
